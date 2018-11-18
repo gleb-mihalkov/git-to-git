@@ -1,0 +1,19 @@
+{
+  "name": "git-to-git",
+  "version": "1.0.0",
+  "description": "No description provided",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gleb-mihalkov/git-to-git.git"
+  },
+  "author": "gleb-mihalkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gleb-mihalkov/git-to-git/issues"
+  },
+  "homepage": "https://github.com/gleb-mihalkov/git-to-git#readme"
+}
