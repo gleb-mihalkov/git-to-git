@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/gleb-mihalkov/git-to-git#readme",
   "dependencies": {
-    "args": "^5.0.0"
+    "commander": "^2.19.0"
   }
 }
