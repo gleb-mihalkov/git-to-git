@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gleb-mihalkov/git-to-git/issues"
   },
-  "homepage": "https://github.com/gleb-mihalkov/git-to-git#readme"
+  "homepage": "https://github.com/gleb-mihalkov/git-to-git#readme",
+  "dependencies": {
+    "args": "^5.0.0"
+  }
 }
